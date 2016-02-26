@@ -1,19 +1,9 @@
-=====================================
-
-           Budget Helper
-		      a jxl API
-			  application.
+# Budget Helper
+a jxl API application.
 			  
-		Borys H.N.
-		7.03.12 
-		
-=====================================
-	
-Pre-Requisites! 
-1) jxl.jar JExcel API
+Just another weekend project. Play to learn.
 
-   
-Instructions...
+# Instructions...
 *once you've already done pre-requisites
 1) Create a project with source.
 2) Include jxl.jar in your project
